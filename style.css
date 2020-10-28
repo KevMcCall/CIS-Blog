@@ -51,7 +51,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-	background-color: #CF5C3F;
+	background-color: #fff;
 	color: #fff;
 	text-decoration: none;
 }
@@ -94,7 +94,7 @@ a:hover, a:active {
 }
 .mainHeader nav a:hover, .mainHeader nav a:active,
 .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
-	background: #CF5C3F;
+	background: #000000;
 	color: #fff;
 	text-shadow: none !important;
 }
