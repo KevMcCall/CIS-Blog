@@ -59,7 +59,7 @@ a:hover, a:active {
 
 /* Nav */
 .mainHeader nav {
-	background: #FF0000;
+	background: #1338BE;
 	font-size: 1.143em;
 	height: 40px;
 	line-height: 30px;
@@ -198,6 +198,7 @@ a:hover, a:active {
 
 /* Footer */
 .mainFooter {
+    text-align: center;
 	width: 100%;
 	float: left;
 	margin-top: 2%;
