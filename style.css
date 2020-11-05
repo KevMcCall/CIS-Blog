@@ -45,13 +45,13 @@ a img {
 }
 
 a:link, a:visited {
-	color: #CF5C3F;
+	/*color: #CF5C3F;*/
 	padding: 0 1px;
 	text-decoration: none;
 }
 
 a:hover, a:active {
-	background-color: #fff;
+	/*background-color: #fff;*/
 	color: #fff;
 	text-decoration: none;
 }
