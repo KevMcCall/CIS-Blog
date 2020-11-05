@@ -121,6 +121,38 @@ a:hover, a:active {
 	-webkit-border-radius: 5px;
 }
 
+#laptopimg {
+	box-sizing: border-box;
+  	width: 50%;
+	display: flex;
+	margin-left: auto;
+  	margin-right: auto;
+
+}
+
+table.customTable {
+	width: 80%;
+	background-color: #FFFFFF;
+	border-collapse: collapse;
+	border-width: 1px;
+	border-color: #7EA8F8;
+	border-style: solid;
+	color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  
+  table.customTable td, table.customTable th {
+	border-width: 1px;
+	border-color: #7EA8F8;
+	border-style: solid;
+	padding: 5px;
+  }
+  
+  table.customTable thead {
+	background-color: #7EA8F8;
+  }
+
 .topcontent {
 	background-color: #000000;
 	border-radius: 5px;
