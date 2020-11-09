@@ -130,10 +130,6 @@ a:hover, a:active {
 
 }
 
-.laptoptitle {
-	text-align: center;
-}
-
 .ssdvshdd {
 	display: block;
   	margin-left: auto;
@@ -142,7 +138,7 @@ a:hover, a:active {
 	width: 450px;
 	  
 }
-
+/* PC vs PC Table */
 table.customTable {
 	width: 80%;
 	background-color: #FFFFFF;
@@ -164,6 +160,33 @@ table.customTable {
   
   table.customTable thead {
 	background-color: #7EA8F8;
+  }
+  /* PC vs PC End */
+
+  /* Network Post Table */
+.Networking caption {
+	color: #ffffff;
+}
+
+table.Networking{
+	width: 100%;
+	background-color: #ffffff;
+	border-collapse: collapse;
+	border-width: 2px;
+	border-color: #2751a0;
+	border-style: solid;
+	color: #000000;
+  }
+  
+  table.Networking td, table.Networking th {
+	border-width: 2px;
+	border-color: #2751a0;
+	border-style: solid;
+	padding: 3px;
+  }
+  
+  table.Networking thead {
+	background-color: #330fe6;
   }
 
 .topcontent {
@@ -197,6 +220,7 @@ table.customTable {
 	color: #999;
 	font-size: 85%;
 }
+/* Content End */
 
 
 /* Sidebar */
