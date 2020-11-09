@@ -168,8 +168,10 @@ table.customTable {
 	color: #ffffff;
 }
 
-table.Networking{
-	width: 100%;
+table.Networking {
+	table-layout: fixed;
+	width: auto;
+	height: 100%;
 	background-color: #ffffff;
 	border-collapse: collapse;
 	border-width: 2px;
@@ -178,14 +180,14 @@ table.Networking{
 	color: #000000;
   }
   
-  table.Networking td, table.Networking th {
+table.Networking td, table.Networking th {
 	border-width: 2px;
 	border-color: #FF0000;
 	border-style: solid;
 	padding: 3px;
   }
   
-  table.Networking thead {
+table.Networking thead {
 	background-color: #D3D3D3;
 	text-align: center;
   }
