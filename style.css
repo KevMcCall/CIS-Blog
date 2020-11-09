@@ -173,20 +173,21 @@ table.Networking{
 	background-color: #ffffff;
 	border-collapse: collapse;
 	border-width: 2px;
-	border-color: #2751a0;
+	border-color: #8b919b;
 	border-style: solid;
 	color: #000000;
   }
   
   table.Networking td, table.Networking th {
 	border-width: 2px;
-	border-color: #2751a0;
+	border-color: #FF0000;
 	border-style: solid;
 	padding: 3px;
   }
   
   table.Networking thead {
-	background-color: #330fe6;
+	background-color: #D3D3D3;
+	text-align: center;
   }
 
 .topcontent {
